@@ -1,0 +1,29 @@
+{
+  "name": "image-resize",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "filesize": "^2.0.3",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-image": "^0.7.1",
+    "grunt-image-resize": "*",
+    "grunt-imageoptim": "^1.4.1",
+    "grunt-img": "^0.1.8",
+    "grunt-imgmin": "^0.1.1",
+    "grunt-resize-crop": "0.0.1",
+    "grunt-smushit": "^1.3.0",
+    "imagemin-mozjpeg": "^0.1.2",
+    "imageoptim-cli": "^1.7.11"
+  },
+  "dependencies": {
+    "jpegoptim-bin": "^0.1.4",
+    "jpegtran-bin": "^0.2.7"
+  }
+}
